@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{20F0A99C-568C-43DE-A78D-BF3366211346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton Pattern", "Creational\Singleton Pattern\Singleton Pattern.csproj", "{EBCD0A84-C29C-41CD-BA4D-10A159636CC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCD0A84-C29C-41CD-BA4D-10A159636CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCD0A84-C29C-41CD-BA4D-10A159636CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCD0A84-C29C-41CD-BA4D-10A159636CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCD0A84-C29C-41CD-BA4D-10A159636CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EBCD0A84-C29C-41CD-BA4D-10A159636CC6} = {20F0A99C-568C-43DE-A78D-BF3366211346}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A5F9438-47FD-4328-89BC-D7D973CB9CFF}
+	EndGlobalSection
+EndGlobal
